@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HTC</string>
+
+    <string name="employeeName">Имя сотрудника</string>
+    <string name="employeePhoneNumber">Номер телефона</string>
+    <string name="employeeSkills">Навыки</string>
+
+    <string name="companyName">Имя компании</string>
+    <string name="companyAge">Возраст</string>
+    <string name="companyCompetences">Навыки</string>
+</resources>
